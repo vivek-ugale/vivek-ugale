@@ -1,7 +1,7 @@
 # 💫 About Me:
 ## Hey there! 👋  <br><br>I'm Vivek, a passionate tech enthusiast skilled in **JavaScript, React, MERN development, HTML, CSS, Python, C, Java, and MySQL**. I enjoy building creative applications, exploring new technologies, and continuously learning.  <br><br>### 🚀 About Me  <br>- 🔭 **I'm currently working on:** A MERN stack project to enhance my backend and full-stack development skills.  <br>- 🤝 **I'm looking to collaborate on:** Open-source projects, web applications, and innovative ideas in React and Node.js.  <br>- 💡 **I'm looking for help with:** Advanced backend concepts, database optimization, and cloud deployment strategies.  <br>- 📚 **I'm currently learning:** React.js, Node.js, MongoDB, and improving my problem-solving skills in Python.  <br>- 💬 **Ask me about:** Web development, JavaScript, MERN stack, or anything tech-related!  <br>- 🎉 **Fun fact:** I love solving coding challenges, and I can spend hours debugging just for fun! 😄  <br><br><br>
 
-### 👀 Profile Visitors : 
+### 👀 Profile Views  
 [![](https://visitcount.itsvg.in/api?id=vivek-ugale&label=Profile%20Views&color=12&icon=2)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
